@@ -1,6 +1,5 @@
-
 <?php
-     
+include_once "customers.php";
     require 'database.php';
  
     if ( !empty($_POST)) {

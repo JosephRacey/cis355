@@ -9,11 +9,12 @@
 <body>
     <div class="container">
             <div class="row">
-                <h3>PHP CRUD Grid</h3>     	<a href="create.php" class="btn btn-success">Github</a>
+                <h3>PHP CRUD Grid</h3>     
             </div>
             <div class="row">
 				<p>
-					<a href="create.php" class="btn btn-success">Create</a>
+					<a href="create.php" class="btn btn-success">Create</a> 
+					<a href="https://github.com/JosephRacey/cis355/tree/master/Prog00" class="btn btn-success">View Source on Github</a>
 				</p>
                 <table class="table table-striped table-bordered">
                   <thead>
@@ -21,7 +22,7 @@
                       <th>Name</th>
                       <th>Email Address</th>
                       <th>Mobile Number</th>
-					   <th>Action</th>
+					  <th>Action</th>
                     </tr>
                   </thead>
                   <tbody>
