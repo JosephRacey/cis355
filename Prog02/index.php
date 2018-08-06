@@ -21,7 +21,7 @@ if(!isset($_SESSION["username"])) {
             <div class="row">
 				<p>
 					<a href="create.php" class="btn btn-success">Create</a> 
-					<a href="https://github.com/JosephRacey/cis355/tree/master/Prog03" class="btn btn-success">View Source on Github</a>
+					<a href="https://github.com/JosephRacey/cis355/tree/master/Prog02" class="btn btn-success">View Source on Github</a>
 					<a href="logout.php" class="btn btn-success">Log Out</a>
 				</p>
                 <table class="table table-striped table-bordered">
